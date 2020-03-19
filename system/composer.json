@@ -1,0 +1,17 @@
+{
+    "name": "itgaziev/ocflame",
+    "description": "CMS Clone Open Cart",
+    "authors": [
+        {
+            "name": "Gaziev Ilyos",
+            "email": "gaziev.ilyos@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\" : "engine",
+            "Library\\" : "library"
+        }
+    }
+}
